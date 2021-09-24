@@ -1,2 +1,2 @@
-# angularMilTec
-Projetos em Angular desenvolvidos durante o treinamento na empesa MilTec: 2021.
+# AngularComite
+Projeto em Angular desenvolvido para a aplicação contendo o CRUD de um banco de dados o qual contém a estrutura de dados de um Comitê Olímpico.
